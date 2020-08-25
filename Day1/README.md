@@ -1,4 +1,4 @@
-#1.Rotate Array
+# 1.Rotate Array
 Given an array, rotate the array to the right by k steps, where k is non-negative.
 
 Follow up:
@@ -30,7 +30,7 @@ It's guaranteed that nums[i] fits in a 32 bit-signed integer.
 k >= 0
 
 
-2.Contains Duplicate
+# 2.Contains Duplicate
 Given an array of integers, find if the array contains any duplicates.
 
 Your function should return true if any value appears at least twice in the array, and it should return false if every element is distinct.
@@ -42,7 +42,7 @@ Example 2:
 
 Input: [1,2,3,4]
 Output: false
-3.Remove Duplicates from Sorted Array
+# 3.Remove Duplicates from Sorted Array
 Given a sorted array nums, remove the duplicates in-place such that each element appear only once and return the new length.
 
 Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.
