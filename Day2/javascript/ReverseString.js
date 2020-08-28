@@ -7,9 +7,8 @@ var reverseString = function (s) {
     var tmp = s[i]
     s[i] = s[s.length - i - 1]
     s[s.length - i - 1] = tmp
-    console.log(s)
   }
 }
-var s = ['h', 'l']
+var s = ['h', 'e', 'l', 'l', 'o']
 reverseString(s)
 console.log(s)
