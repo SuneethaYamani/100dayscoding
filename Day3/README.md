@@ -44,3 +44,14 @@ Example:
 Input: 10
 Output: 4
 Explanation: There are 4 prime numbers less than 10, they are 2, 3, 5, 7.
+# Power of Three
+Given an integer, write a function to determine if it is a power of three.
+
+Example 1:
+
+Input: 27
+Output: true
+Example 2:
+
+Input: 0
+Output: false
